@@ -1,0 +1,3 @@
+pages\DashboardPage.class
+runners\MyRunner.class
+stepdefinitions\Test1StepDefinition.class
